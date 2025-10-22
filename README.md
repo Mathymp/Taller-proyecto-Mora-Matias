@@ -3,7 +3,7 @@
 **Autor:** Matias Mora Duran
 **Asignatura:** Taller de Proyecto de la Especialidad
 **Carrera:** Técnico en Programación y Análisis de Sistemas
-**Docente:** Víctor M. Valderrama M.
+**Docente:** Víctor Valderrama M.
 **Semestre:** 2025-2
 
 ---
