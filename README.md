@@ -46,8 +46,8 @@ Este sistema está diseñado para ser autogestionado por la empresa cliente (ej.
 ## 4. Documentación y Licencia 
 
 * **Informe Avance 1:**
-    * `[Ver Informe PDF en /documentos/Avance_1_LOTIFY.pdf]`
+    * `[Ver Informe PDF en /documentos/]`
 * **Diagrama de Procesos (DFD):**
-    * `[Ver Diagrama en /diagramas/DFD_LOTIFY_Nivel1.png]`
+    * `[Ver Diagrama en /diagramas/]`
 * **Licencia:**
     * Este proyecto académico se distribuye bajo la **Licencia MIT**. Ver el archivo `LICENSE` en la raíz del repositorio para más detalles.
